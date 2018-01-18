@@ -48,4 +48,11 @@
 
     .active { border: 1px solid #FF9F1C }
   }
+
+  .clear {
+    text-decoration: underline;
+    font-size: .8em;
+    color: grey;
+    cursor: pointer;
+  }
 }

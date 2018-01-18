@@ -37,3 +37,9 @@
     cursor: pointer; }
   .Filters .sizes .active {
     border: 1px solid #FF9F1C; }
+
+.Filters .clear {
+  text-decoration: underline;
+  font-size: .8em;
+  color: grey;
+  cursor: pointer; }
