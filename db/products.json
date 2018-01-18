@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Bata bordada",
+      "image": "https://static1.squarespace.com/static/58493596e58c62458a185269/59954c1b6b8f5bdf63ef6980/5a1f74ba8165f5ee9e4c9881/1512370580957/LESH-WD139_V2.jpg?format=1500w",
+      "color": "preto",
+      "size": ["p", "m", "g", "gg"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180114"
+    },
+    {
+      "id": "002",
+      "name": "Chapéu de praia com fivela",
+      "image": "https://is4.revolveassets.com/images/p4/n/z/AMAN-WD773_V1.jpg",
+      "color": "vermelho",
+      "size": ["p", "m"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180113"
+    },
+    {
+      "id": "003",
+      "name": "Vestido texturizado",
+      "image": "http://www.naoki-nk.com/images/Revolve-us-zh51/W-SKY-WD192.jpg",
+      "color": "azul",
+      "size": ["m"],
+      "price": "398",
+      "on_sale": true,
+      "sale_price": "180",
+      "installments": "5x de R$30,00",
+      "date": "20180112"
+    },
+    {
+      "id": "004",
+      "name": "Bata bordada",
+      "image": "https://static1.squarespace.com/static/58493596e58c62458a185269/59954c1b6b8f5bdf63ef6980/5a1f74ba8165f5ee9e4c9881/1512370580957/LESH-WD139_V2.jpg?format=1500w",
+      "color": "preto",
+      "size": ["p", "m", "g", "gg"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180114"
+    },
+    {
+      "id": "005",
+      "name": "Chapéu de praia com fivela",
+      "image": "https://is4.revolveassets.com/images/p4/n/z/AMAN-WD773_V1.jpg",
+      "color": "vermelho",
+      "size": ["p", "m"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180113"
+    },
+    {
+      "id": "006",
+      "name": "Vestido texturizado",
+      "image": "http://www.naoki-nk.com/images/Revolve-us-zh51/W-SKY-WD192.jpg",
+      "color": "azul",
+      "size": ["m"],
+      "price": "398",
+      "on_sale": true,
+      "sale_price": "180",
+      "installments": "5x de R$30,00",
+      "date": "20180112"
+    },
+    {
+      "id": "007",
+      "name": "Bata bordada",
+      "image": "https://static1.squarespace.com/static/58493596e58c62458a185269/59954c1b6b8f5bdf63ef6980/5a1f74ba8165f5ee9e4c9881/1512370580957/LESH-WD139_V2.jpg?format=1500w",
+      "color": "preto",
+      "size": ["p", "m", "g", "gg"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180114"
+    },
+    {
+      "id": "008",
+      "name": "Chapéu de praia com fivela",
+      "image": "https://is4.revolveassets.com/images/p4/n/z/AMAN-WD773_V1.jpg",
+      "color": "vermelho",
+      "size": ["p", "m"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180113"
+    },
+    {
+      "id": "009",
+      "name": "Vestido texturizado",
+      "image": "http://www.naoki-nk.com/images/Revolve-us-zh51/W-SKY-WD192.jpg",
+      "color": "azul",
+      "size": ["m"],
+      "price": "398",
+      "on_sale": true,
+      "sale_price": "180",
+      "installments": "5x de R$30,00",
+      "date": "20180112"
+    },
+    {
+      "id": "010",
+      "name": "Bata bordada",
+      "image": "https://static1.squarespace.com/static/58493596e58c62458a185269/59954c1b6b8f5bdf63ef6980/5a1f74ba8165f5ee9e4c9881/1512370580957/LESH-WD139_V2.jpg?format=1500w",
+      "color": "preto",
+      "size": ["p", "m", "g", "gg"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180114"
+    },
+    {
+      "id": "011",
+      "name": "Chapéu de praia com fivela",
+      "image": "https://is4.revolveassets.com/images/p4/n/z/AMAN-WD773_V1.jpg",
+      "color": "vermelho",
+      "size": ["p", "m"],
+      "price": "398",
+      "on_sale": false,
+      "sale_price": "",
+      "installments": "5x de R$30,00",
+      "date": "20180113"
+    },
+    {
+      "id": "012",
+      "name": "Vestido texturizado",
+      "image": "http://www.naoki-nk.com/images/Revolve-us-zh51/W-SKY-WD192.jpg",
+      "color": "azul",
+      "size": ["m"],
+      "price": "398",
+      "on_sale": true,
+      "sale_price": "180",
+      "installments": "5x de R$30,00",
+      "date": "20180112"
+    }
+  ]
+}

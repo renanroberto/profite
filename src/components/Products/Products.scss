@@ -1,0 +1,18 @@
+.Products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 40px;
+  grid-auto-flow: dense;
+  margin-bottom: 20px;
+}
+
+.showMore {
+  width: 100%;
+  padding: 10px;
+  background-color: #FF9F1C;
+  border: none;
+  outline: none;
+  font-size: 1.2em;
+  color: white;
+  cursor: pointer;
+}

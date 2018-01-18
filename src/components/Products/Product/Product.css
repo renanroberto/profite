@@ -1,0 +1,31 @@
+.Product #name {
+  text-align: center;
+  height: 40px; }
+
+.Product #price_button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; }
+  .Product #price_button #price {
+    display: flex;
+    flex-direction: column;
+    text-align: right; }
+    .Product #price_button #price > div:first-of-type {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      font-weight: bold; }
+    .Product #price_button #price > div:last-of-type {
+      font-size: .8em; }
+    .Product #price_button #price .sale {
+      color: grey;
+      font-size: .8em;
+      font-weight: normal;
+      text-decoration: line-through; }
+  .Product #price_button button {
+    height: 100%;
+    padding: 0 10px;
+    background-color: #FF9F1C;
+    border: none;
+    outline: none;
+    cursor: pointer; }

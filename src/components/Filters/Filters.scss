@@ -1,0 +1,51 @@
+.Filters {
+  > div { margin-bottom: 30px; }
+
+  .checkbox {
+    position: relative;
+    padding: 3px;
+    font-size: 0.9em;
+    transform: translateX(1.5em);
+
+    > * { cursor: pointer }
+
+    > span:first-of-type {
+      position: absolute;
+      width: 1em;
+      height: 1em;
+      border: 1px solid #d8d8d8;
+      transform: translateX(-1.5em);
+
+      span {
+        position: absolute;
+        width: .7em;
+        height: .7em;
+        background-color: #FF9F1C;
+        transform: translate(25%, 25%);
+      }
+    }
+  }
+
+  .sizes {
+    display: grid;
+    grid-template-columns: repeat(4, 2em);
+    grid-gap: 5px;
+    grid-auto-flow: dense;
+
+    span {
+      width: 1em;
+      height: 1em;
+      padding: 5px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      border: 1px solid #d8d8d8;
+
+      cursor: pointer;
+    }
+
+    .active { border: 1px solid #FF9F1C }
+  }
+}

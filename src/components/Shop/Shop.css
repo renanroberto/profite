@@ -1,0 +1,31 @@
+.Shop {
+  position: relative;
+  width: 100%;
+  display: grid;
+  grid-template-areas: "header header header header header header" ". title title title title ." ". nav content content content ." "footer footer footer footer footer footer"; }
+  .Shop > header {
+    grid-area: header;
+    border-bottom: 2px solid #FF9F1C; }
+  .Shop > div {
+    grid-area: title;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0 60px; }
+  .Shop > nav {
+    grid-area: nav; }
+  .Shop > main {
+    grid-area: content; }
+  .Shop > footer {
+    grid-area: footer;
+    margin: 20px 0 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: black; }
+  @media screen and (max-width: 450px) {
+    .Shop {
+      grid-template-areas: "header header header header" "title title title title" "content content content content" "footer footer footer footer";
+      justify-items: center; }
+      .Shop nav {
+        display: none; } }

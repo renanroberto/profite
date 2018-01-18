@@ -1,0 +1,22 @@
+.Header {
+  position: relative;
+  margin: 0 auto;
+  width: 68.13187%;
+  max-width: 1090px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .Header .CartIcon {
+    cursor: pointer; }
+    .Header .CartIcon span {
+      position: absolute;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 1.3;
+      font-size: .8em;
+      color: white;
+      background-color: #FF9F1C;
+      transform: translate(-70%, 100%); }
